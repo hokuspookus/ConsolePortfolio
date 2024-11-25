@@ -12,3 +12,4 @@ C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Debug\net8.0\ref
 C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Debug\net8.0\ConsolePortfolio.pdb
 C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Debug\net8.0\ConsolePortfolio.genruntimeconfig.cache
 C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Debug\net8.0\ref\ConsolePortfolio.dll
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Debug\net8.0\ConsolePortfolio.sourcelink.json
