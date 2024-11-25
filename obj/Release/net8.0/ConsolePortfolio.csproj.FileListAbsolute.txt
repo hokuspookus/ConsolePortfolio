@@ -1,0 +1,15 @@
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\ConsolePortfolio.exe
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\ConsolePortfolio.deps.json
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\ConsolePortfolio.runtimeconfig.json
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\ConsolePortfolio.dll
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\ConsolePortfolio.pdb
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.AssemblyInfo.cs
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.sourcelink.json
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.dll
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\refint\ConsolePortfolio.dll
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.pdb
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ConsolePortfolio.genruntimeconfig.cache
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\obj\Release\net8.0\ref\ConsolePortfolio.dll

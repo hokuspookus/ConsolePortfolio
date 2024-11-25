@@ -1,0 +1,2 @@
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\publish\linux-x64\ConsolePortfolio.pdb
+C:\Users\Tim\Documents\C#\ConsolePortfolio\ConsolePortfolio\bin\Release\net8.0\publish\linux-x64\ConsolePortfolio
